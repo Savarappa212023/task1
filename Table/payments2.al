@@ -7,6 +7,7 @@ table 50002 "Payment Terms Conditions"
         field(1; "Line No."; Integer)
         {
             DataClassification = ToBeClassified;
+            Caption = 'Line No.';
 
         }
         field(2; "Line Type"; Option)
